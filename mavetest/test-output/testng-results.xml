@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12465" started-at="2022-03-22T02:52:28Z" finished-at="2022-03-22T02:52:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12465" started-at="2022-03-22T02:52:28Z" finished-at="2022-03-22T02:52:40Z">
+      <class name="MavenTestDemo.mavetest.MavenTest">
+        <test-method status="PASS" signature="keyBoardAction()[pri:0, instance:MavenTestDemo.mavetest.MavenTest@6d8a00e3]" name="keyBoardAction" duration-ms="12428" started-at="2022-03-22T08:22:28Z" finished-at="2022-03-22T08:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- keyBoardAction -->
+      </class> <!-- MavenTestDemo.mavetest.MavenTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
