@@ -24,6 +24,7 @@ public class MavenJenkinTest {
 		WebElement element = driver.findElement(By.xpath("//input[@id='twotabsearchtextbox']"));
 		Actions act = new Actions(driver);
 		act.moveToElement(element).click().keyDown(Keys.SHIFT).sendKeys("apple").build().perform();
+		System.out.println("Test");
 		
 	
 	}
